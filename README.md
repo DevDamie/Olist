@@ -1,2 +1,2 @@
 # Olist
-This project analyses sales and revenue for a new e-commerce company
+This project analyzes sales and revenue for a new e-commerce company
